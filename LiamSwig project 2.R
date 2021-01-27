@@ -4,7 +4,7 @@
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
-        ##this function creates a matrix that cache's its inverse
+        ##this function creates a matrix that caches its inverse
         minverse <- NULL ## this creates the minverse variable which we will 
         ##store the inverse of our matrix in
         set <- function(y) {
